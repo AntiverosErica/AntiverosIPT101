@@ -1,0 +1,10 @@
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\bin\Debug\PerfumeBrand.dacpac
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\bin\Debug\PerfumeBrand.dll
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\bin\Debug\PerfumeBrand.pdb
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\PerfumeBrand.sqlproj.AssemblyReference.cache
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\PerfumeBrand.dll
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\PerfumeBrand.pdb
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\Model.xml
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\refactor.xml
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\postdeploy.sql
+C:\Antiveros\AntiverosDataBase\PerfumeBrand\obj\Debug\predeploy.sql
